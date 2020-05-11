@@ -20,3 +20,6 @@ https://documenter.getpostman.com/view/11326734/Szme5Jou
 
 Here is a working list of career pages the API is tracking:
 https://docs.google.com/spreadsheets/d/1PZ5LP3xV5NDlYaQ-O7rkwBFLjaB7bz8NqZs0vHBU-Bk/edit?usp=sharing
+
+Trello board for tasks:
+https://trello.com/b/UEDQSk4s/jobs-api
