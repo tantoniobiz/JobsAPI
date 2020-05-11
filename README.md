@@ -1,5 +1,5 @@
 # JobsAPI
-This is a project to create an open API for job tracking and job searching.
+This is a project to create an open API for job tracking and job searching. The goal of the API is to provide job data to new and innovative job search tools that help people get jobs after getting laid off due to Covid.
 
 jobs.py - Currently this file is setup as a webscraping POC for a career page
 There will two parts to this file (Work in progress):
